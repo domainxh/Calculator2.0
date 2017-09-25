@@ -103,8 +103,8 @@
 			isa = PBXGroup;
 			children = (
 				F78B4E6A1F77E5EF00A9C668 /* String+.swift */,
-				F78B4E6B1F77E5EF00A9C668 /* TodoList.swift */,
 				F78B4E6D1F77E8FE00A9C668 /* UIView+.swift */,
+				F78B4E6B1F77E5EF00A9C668 /* TodoList.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
